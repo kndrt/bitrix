@@ -1,0 +1,3 @@
+<?
+$PERM["rassylka.php"]["*"]="D";
+?>
